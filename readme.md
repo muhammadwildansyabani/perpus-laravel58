@@ -1,6 +1,6 @@
 ## <h1 align="center">SISTEM INFORMASI PERPUSTAKAAN</h1>
 
-<p align="center"><a href="https://wikoding.netlify.app/" target="_blank"><img src="https://github.com/muhammadwildansyabani/assets/blob/master/Portofolio/perpus.PNG"></a></p>
+<p align="center"><a href="https://wikoding.netlify.app/" target="_blank"><img src="https://github.com/muhammadwildansyabani/assets/blob/master/Portofolio/sekolah-backend.PNG"></a></p>
 
 
 ## Deskripsi Projek
