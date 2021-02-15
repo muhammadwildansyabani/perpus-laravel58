@@ -1,6 +1,3 @@
-<p align="center"><a href="https://wikoding.netlify.app/" target="_blank"><img src="https://github.com/muhammadwildansyabani/portfolio-tailwind/blob/master/img/logo-red.png" width="400"></a></p>
-
-
 <p align="center"><a href="https://wikoding.netlify.app/" target="_blank"><img src="https://github.com/muhammadwildansyabani/assets/blob/master/Portofolio/perpus.PNG"></a></p>
 
 
